@@ -1,4 +1,4 @@
-# Freelancing-and-MatchMaking
+# Freelancing and MatchMaking 
 # Freelancer Project Matching & Management: SQL Dashboard (Streamlit)
 
 Runs every SQL statement from the DBMS mini project report (DDL, DML, Queries 1-24, the
